@@ -1,4 +1,4 @@
-In this project, potential issues could include:  
+Potential issues
 
 1. **Authentication Issues** – SSH keys or authentication tokens may fail, leading to access problems.  
 2. **Configuration Errors** – Incorrect settings in `pom.xml`, `settings.xml`, or `buildspec.yml` may cause build or deployment failures.  
